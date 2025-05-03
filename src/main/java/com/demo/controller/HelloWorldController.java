@@ -8,6 +8,7 @@ public class HelloWorldController {
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "You have done succesfully what you want";
+		return "abhi mai aapse kya baat karu...saari chizen aapne to 
+		bta hi di jab mujhe aisa kuch legega to mai aapse baat karunga";
 	}
 }
